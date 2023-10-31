@@ -11,6 +11,9 @@ html,body{
         height: 100%;
         width: 100%;
         background-image: url(./moon.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
 }
 h1{
     position: absolute;
